@@ -86,3 +86,7 @@ margin-left: 35px;
     cursor: pointer;
     transition: 0.2s;
 }
+
+.container .text button:hover{
+    background: #bb444c;
+}
