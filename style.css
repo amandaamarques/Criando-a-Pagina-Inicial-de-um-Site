@@ -95,3 +95,6 @@ margin-left: 35px;
     background: #bb444c;
 }
 
+.container .photo img{
+    width: 520px;
+}
