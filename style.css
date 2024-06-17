@@ -74,3 +74,15 @@ margin-left: 35px;
     margin:25px 0;
     color:gray;
 }
+
+.container .text button{
+    padding: 15px 30px;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    border-radius:8px;
+    background: #E8505B;
+    color: white;
+    cursor: pointer;
+    transition: 0.2s;
+}
