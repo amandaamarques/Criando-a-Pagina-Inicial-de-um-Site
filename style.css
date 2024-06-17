@@ -24,3 +24,12 @@ body{
 .navbar .logo img{
     width: 100%;
 }
+
+.navbar .links ul{
+    list-style: none;
+    display: flex;
+}
+
+.navbar .links ul li{
+margin-left: 35px;
+}
