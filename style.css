@@ -58,3 +58,12 @@ margin-left: 35px;
 .container .photo{
     width: 50%;
 }
+
+.container .text{
+    font-size: 55px;
+    font-weight: 600;
+}
+
+.container .text h1 span{
+    font-weight: 400;
+}
