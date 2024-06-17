@@ -67,3 +67,10 @@ margin-left: 35px;
 .container .text h1 span{
     font-weight: 400;
 }
+
+.container .text p{
+    width:85%;
+    font-size: 17px;
+    margin:25px 0;
+    color:gray;
+}
