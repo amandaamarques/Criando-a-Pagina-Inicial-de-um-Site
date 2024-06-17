@@ -16,3 +16,11 @@ body{
     justify-content: space-between;
     padding: 25px 0;
 }
+
+.navbar .logo{
+    width: 150px;
+}
+
+.navbar .logo img{
+    width: 100%;
+}
