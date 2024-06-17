@@ -33,3 +33,10 @@ body{
 .navbar .links ul li{
 margin-left: 35px;
 }
+
+.navbar .links ul li a{
+    text-decoration: none;
+    color: gray;
+    font-size: 18px;
+}
+
